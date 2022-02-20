@@ -1,0 +1,3 @@
+/cygdrive/c/Users/vitya/CLionProjects/Astarpro/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/vitya/CLionProjects/Astarpro/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/vitya/CLionProjects/Astarpro/CMakeFiles/Astarpro.dir
